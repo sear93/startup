@@ -22,6 +22,8 @@ a {
 
 .header {
 	background: url(background.png) no-repeat;
+	background-size: 100% 100%;
+	height: 100vh;
 	text-align: center;
 	padding-top: 40px;
 }
